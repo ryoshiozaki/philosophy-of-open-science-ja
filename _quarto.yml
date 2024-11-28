@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  title: "オープンサイエンスの哲学（Philosophy of Open Science）"
+  subtitle: "Elementsシリーズ（科学哲学）"
+  reader-mode: true
+  author:
+    - name: "サビーナ・レオネッリ（Sabina Leonelli）"
+      affiliation:
+      - name: エクセター大学（University of Exeter）
+  license: "CC BY-NC"
+  translator: "塩崎亮"
+  language: ja
+  page-navigation: true
+  repo-url: https://github.com/ryoshiozaki/philosophy-of-open-science-ja
+  repo-actions: [edit, issue]
+  page-footer:
+    left: | 
+      *[Philosophy of Open Science](https://doi.org/10.1017/9781009416368)* の日本語仮訳版
+    right: |
+      制作ツール：[Quarto](https://quarto.org/)
+  chapters:
+    - index.qmd
+    - chapter1.qmd
+    - chapter2.qmd
+    - chapter3.qmd
+    - chapter4.qmd
+    - chapter5.qmd
+    - chapter6.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+    self-contained: true
+    toc: true
+
+
+
+

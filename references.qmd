@@ -1,0 +1,147 @@
+# 参照文献 {.unnumbered}
+
+[邦訳文献の有無については未確認]
+
+- Ahmed, S. (2019) *What’ s the Use?* Durham, NC: Duke University Press.
+- Allison, D. B. et al. (2016) Reproducibility: A Tragedy of Errors. *Nature* 530: 27–30.
+- Andersen, H. (2016) Collaboration, Interdisciplinarity, and the Epistemology of Contemporary Science. *Studies in History and Philosophy of Science* 56: 1–10.
+- Ankeny, R. A. and Leonelli, S. (2016) Repertoires: A Post-Kuhnian Perspective on Scientific Change and Collaborative Research. *Studies in History and Philosophy of Science* 60: 18–28.
+- Arnaud, E. et al. (2020) The Ontologies Community of Practice: An Initiative by the CGIAR Platform for Big Data in Agriculture. *Patterns* 1: 100105. [https://www.cell.com/patterns/pdf/S2666-3899(20)30139-2.pdf](https://www.cell.com/patterns/pdf/S2666-3899(20)30139-2.pdf).
+- Barnes, B. (2001) Practice as Collective Action. In Schatzki, T. R. et al. (eds.), *The Practice Turn in Contemporary Theory*. London: Routledge, 17–28.
+- Bartling, S. and Friesike, S. (eds.) (2014) *Opening Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing*. Dordrecht: Springer.
+- Beaulieu, A. and Leonelli, S. (2021) *Data and Society: A Critical Introduction*. London: SAGE.
+- Benjaminsen, T. A. and Svarstad, H. (2021) *Political Ecology: A Critical Engagement with Global Environmental Issues*. London: Palgrave Macmillan.
+- Bezuidenhout, L. et al. (2017) Beyond the Digital Divide: Towards a Situated Approach to Open Data. *Science and Public Policy* 44(4): 464–75.
+- Bilder, G., Lin, J. and Neylon, C. (2020) *The Principles of Open Scholarly Infrastructure*. [https://doi.org/10.24343/C34W2H](https://doi.org/10.24343/C34W2H).
+- Bonneuil, C. (2019) Seeing Nature as a Universal ‘Store of Genes’: How Biological Diversity Became ‘Genetic Resources’, 1890–1940. *Studies in the History and Philosophy of Biological and Biomedical Science* 75: 1–14.
+- Borgman, C. L. (2016) *Big Data, Little Data, No Data*. Cambridge, MA: MIT Press.
+- Boulton, G. et al. (2012) *Science as an Open Enterprise*. The Royal Society Science Policy Centre report 02/12. London: The Royal Society.
+- Bowker, G. et al. (2010) Towards Information Infrastructure Studies: Ways of Knowing in a Networked Environment. In Hunsinger, J. et al. (eds.), *International Handbook of Internet Research*. Dordrecht: Springer, 97–117.
+- Burgelman, J.-C. (2021) Politics and Open Science: How the European Open Science Cloud Became a Reality. *Data Intelligence* 3(1): 1–19.
+- Burgelman, J.-C. et al. (2019) Open Science, Open Data, and Open Scholarship: European Policies to Make Science Fit for the Twenty-First Century. *Frontiers in Big Data* 2: 43.
+- Caporael, L. R., Griesemer, J. R. and Wimsatt, W. C. (eds.) (2013). *Developing Scaffolds in Evolution, Culture, and Cognition*. Cambridge, MA: MIT Press.
+- Cartwright, N. et al. (2022) *The Tangle of Science*. Oxford: Oxford University Press.
+- Chang, H. (2013) *Water Is Not H2O: Evidence, Realism and Pluralism*. Springer.
+- Chang, H. (2022) *Realism for Realistic People*. Cambridge: Cambridge University Press.
+- Chen, L., Okune, A., Hillyer, B., Albornoz, D. and Posada, A. (eds.) (2019) *Contextualising Openness: Situating Open Science*. Ottawa: University of Ottawa Press.
+- Chubin, D. E. (1985) Open Science and Closed Science: Trade-offs in a Democracy. *Science, Technology, & Human Values*, 10(2): 73–80. [https://doi.org/10.1177/016224398501000211](https://doi.org/10.1177/016224398501000211).
+- Code, L. (2006) *The Politics of Epistemic Location*. Oxford: Oxford University Press.
+- Collins, R. (1998) *The Sociology of Philosophies: A Global Theory of Intellectual Change*. Cambridge, MA: Belknap Press.
+- Colombetti, G. (2014) *The Feeling Body: Affective Science Meets the Enactive Mind*. Cambridge, MA: MIT Press.
+- Currie, A. (2018) *Rock, Bone and Ruin*. Cambridge, MA: MIT Press.
+- Curry, H. A. (2022) *Endangered Maize: Industrial Agriculture and the Crisis of Extinction*. Oakland: University of California Press.
+- Daston, L. and Galison, P. (1992) The Image of Objectivity. *Representations* 40: 81–128.
+- Della Porta, D. and Diani, M. (1999) *Social Movements: An Introduction*. Oxford: Blackwell Publishers.
+- De Melo-Martín, I. and Intemann, K. (2018) *The Fight against Doubt: How to Bridge the Gap between Scientists and the Public*. New York: Oxford University Press.
+- De Sousa Santos, B. and Meneses, M. (2020) *Knowledges Born in the Struggle: Constructing the Epistemologies of the Global South*. London: Routledge.
+- Dupré, J. and Leonelli, S. (2022) Process Epistemology in the COVID Era: Rethinking the Research Process to Avoid Dangerous Forms of Reification. *European Journal for the Philosophy of Science* 12:20. [https://doi.org/10.1007/s13194-022-00450-4](https://doi.org/10.1007/s13194-022-00450-4).
+- Edwards, M. A. and Roy, S. (2017) Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. *Environmental Engineering Science* 34(1). [https://doi.org/10.1089/ees.2016.0223](https://doi.org/10.1089/ees.2016.0223).
+- Edwards, P. (2010) *The Vast Machine*. Cambridge, MA: MIT Press.
+- Edwards, P. N., Mayernik, M. S. and Batcheller, A. (2011) Science Friction: Data, Metadata, and Collaboration in the Interdisciplinary Sciences. *Social Studies of Science* 41(5): 667–90.
+- Elliott, K. (2020) A Taxonomy of Transparency in Science. *Canadian Journal of Philosophy* 53(3): 342–55.
+- Elliott, K. and Resnik, D. B. (2019) Making Open Science Work for Science and Society. *Environmental Health Perspectives* 127: 075002. [https://doi.org/10.1289/EHP4808](https://doi.org/10.1289/EHP4808).
+- European Commission (2016) *Open Innovation, Open Science, Open to the World: A Vision for Europe*. [https://digital-strategy.ec.europa.eu/en/library/open-innovation-open-science-open-world](https://digital-strategy.ec.europa.eu/en/library/open-innovation-open-science-open-world).
+- European Commission (2018) *Open Science: Altmetrics and Rewards*. Final Report for the Mutual Learning Exercise Open Science: Altmetrics and Rewards of the European Commission. [https://rio.jrc.ec.europa.eu/en/policy-support-facility/mle-open-science-altmetrics-and-rewards](https://rio.jrc.ec.europa.eu/en/policy-support-facility/mle-open-science-altmetrics-and-rewards).
+- Fecher, B. and Friesike, S. (2014) Open Science: One Term, Five Schools of Thought. In Bartling, S. and Friesike, S. (eds.), *Opening Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing*. Dordrecht: Springer, 17–47.
+- Feest, U. (2019) Why Replication Is Overrated. *Philosophy of Science* 86(5): 895–905.
+- Fernandez Pinto, M. (2020) Open Science for Private Interests? How the Logic of Open Science Contributes to the Commercialisation of Research. *Frontiers in Research Metrics and Analysis* 5: 588331. [https://doi.org/10.3389/frma.2020.588331](ttps://doi.org/10.3389/frma.2020.588331).
+- Feyerabend, P. (1978) *Science in a Free Society*. London: Verso.
+- Fricker, M. (2007) *Epistemic Injustice: Power and the Ethics of Knowledge*. Oxford: Oxford University Press.
+- Frischmann, B. M., Madison, M. J. and Strandburg, K. J. (eds.) (2014) *Governing Knowledge Commons*. Oxford: Oxford University Press.
+- Gerson, E. M. (2013) Integration of Specialties: An Institutional and Organizational View. *Studies in History and Philosophy of Biological and Biomedical Sciences* 44(4a): 515–24.
+- Guttinger, S. (2020) The Limits of Replicability. *European Journal for Philosophy of Science* 10: 10. [https://doi.org/10.1007/s13194-019-0269-1](https://doi.org/10.1007/s13194-019-0269-1).
+- Hackett, E. J. et al. (2017) The Social and Epistemic Organization of Scientific Work. In Felt, U. et al. (eds.), *The Handbook of Science and Technology Studies*. 4th ed. Cambridge, MA: MIT Press, 733–64.
+- Harding, S. (1995)“Strong Objectivity”: A Response to the New Objectivity Question. *Synthese* 104(3): 331–49.
+- Harding, S. (2011) *The Postcolonial Science and Technology Studies Reader*. Durham, NC: Duke University Press.
+- Harding, S. (2015) *Objectivity and Diversity: Another Logic of Scientific Research*. Chicago: Chicago University Press.
+- Hayden, C. (2003) *When Nature Goes Public*. Princeton, NJ: Princeton University Press.
+- Hecker, S. et al. (2018) *Citizen Science: Innovations in Open Science, Society and Policy*. London: UCL Press.
+- Heesen, R. and Bright, L. K. (2019) Is Peer Review a Good Idea? *British Journal for the Philosophy of Science* 72(3): 635–63.
+- Herzog, L. (2023) *Democratic Knowledge*. Oxford: Oxford University Press.
+- Hesse, M. (1974) *The Structure of Scientific Inference*. London: Macmillan. 
+- Intemann, K. (2009) Why Diversity Matters: Understanding and Applying the Diversity Component of the National Science Foundation’s Broader Impacts Criterion. *Social Epistemology* 23(3–4): 249–66.
+- Intemann, K. (2020) Understanding the Problem of‘Hype’: Exaggeration, Values, and Trust in Science. Canadian *Journal of Philosophy* 52(3): 279–94.
+- Jensen, J. L. (2020) Digital Feudalism. In Jensen, J. L. (ed.), *The Medieval Internet: Power, Politics and Participation in the Digital Age*. Bingley: Emerald Publishing, 95–109.
+- Johnson, R. et al. (2022) *Intelligent Open Science: A Case Study of Viral Genomic Data Sharing during the COVID-19 Pandemic*. Report prepared on behalf of the UK Government Department of Business, Energy and Industrial Strategy. Research Consulting. [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1118628/intelligent-open-science.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1118628/intelligent-open-science.pdf).
+- Kelty, C. (2007) *Two Bits: The Cultural Significance of Open Software*. Oakland: University of California Press.
+- Kelty, C. (2019) *The Participant: A Century of Participation in Four Stories*. Chicago: Chicago University Press.
+- Kitcher, P. (2001) *Science, Truth and Democracy*. Oxford: Oxford University Press.
+- Knorr Cetina, K. (1999) *Epistemic Cultures: How Science Makes Knowledge*. Cambridge, MA: Harvard University Press.
+- Krige, J. (ed.) (2022) *Knowledge Flows in a Global Age: A Transnational Approach*. Chicago: Chicago University Press.
+- Lakatos, I. (1978) *The Methodology of Scientific Research Programmes*. Cambridge: Cambridge University Press.
+- Landecker, H. (forthcoming). *American Metabolism*. Cambridge, MA: Harvard University Press.
+- Leonelli, S. (2012) When Humans Are the Exception: Cross-Species Databases at the Interface of Clinical and Biological Research. *Social Studies of Science* 42(2): 214–36.
+- Leonelli, S. (2016) *Data-Centric Biology: A Philosophical Study*. Chicago: Chicago University Press.
+- Leonelli, S. (2018a) Global Data Quality Assessment and the Situated Nature of ‘Best’ Research Practices in Biology. *Data Science* 16(32): 1–11.
+- Leonelli, S. (2018b) Re-Thinking Reproducibility as a Criterion for Research Quality. *Research in the History of Economic Thought and Methodology* 36 (B): 129–46.
+- Leonelli, S. (2019a) Data– From Objects to Assets. *Nature* 574: 317–21.
+- Leonelli, S. (2019b) Scientific Agency and Social Scaffolding in Contemporary Data-Intensive Biology. In Wimsatt, W. and Love, A. (eds.), *Beyond the Meme: Articulating Dynamic Structures in Cultural Evolution*. Minneapolis: University of Minnesota Press, 42–63.
+- Leonelli, S. (2020) Scientific Research and Big Data. In Zalta, E. (ed.), *The Stanford Encyclopedia of Philosophy*. [https://plato.stanford.edu/entries/science-big-data/](https://plato.stanford.edu/entries/science-big-data/).
+- Leonelli, S. (2021) Data Science in Times of Pan(dem)ic. *Harvard Data Science Review* 3(1). [https://doi.org/10.1162/99608f92.fbb1bdd6](https://doi.org/10.1162/99608f92.fbb1bdd6).
+- Leonelli, S. (2022a) How Data Cross Borders: Globalizing Plant Knowledge through Transnational Data Management and Its Epistemic Economy. In Krige, J. (ed.), *Knowledge Flows in a Global Age: A Transnational Approach*. Chicago: University of Chicago Press, 305–43.
+- Leonelli, S. (2022b) Process-Sensitive Naming: Trait Descriptors and the Shifting Semantics of Plant (Data) Science. *Philosophy, Theory and Practice in Biology*. 14: 16. [https://doi.org/10.3998/ptpbio.3364](https://doi.org/10.3998/ptpbio.3364).
+- Leonelli, S. and Ankeny, R. A. (2012) Re-Thinking Organisms: The Epistemic Impact of Databases on Model Organism Biology. *Studies in the History and Philosophy of the Biological and Biomedical Sciences* 43(1): 29–36.
+- Leonelli, S. and Lewandowsky, S. (2023) *The Reproducibility of Research in Flanders: Fact Finding and Recommendations*. Thinkers report of the KVAB (Royal Flemish Academy of Belgium for Science and the Arts). 
+- Levin, N. et al. (2016) How Do Scientists Understand Openness? Exploring the Relationship between Open Science Policies and Research Practice. *Bulletin for Science & Technology Studies* 36: 128–41.
+- Levin, N. and Leonelli, S. (2017) How Does One‘Open’ Science? Questions of Value in Biological Research. *Science, Technology and Human Values* 42(2): 280–305.
+- Levins, R. (1966) The Strategy of Model Building in Population Biology. *American Scientist* 54: 421–31.
+- Lewandowski, S. and Bishop, D. (2016) Research Integrity: Don't Let Transparency Damage Science. *Nature* 529: 459–61.
+- Longino, H. (1990) *Science as Social Knowledge*. Princeton, NJ: Princeton University Press.
+- Longino, H. (2001) *The Fate of Knowledge*. Princeton, NJ: Princeton University Press.
+- Longino, H. (2003) *The Fate of Knowledge*. Princeton, NJ: Princeton University Press.
+- Louafi, S. et al. (2022) Communities of Practice in Crop Diversity Management: From Data to Collaborative Governance. In Williamson, H. and Leonelli, S. (eds.), *Towards Responsible Plant Data Linkage*. Dordrecht: Springer, 273–88.
+- Love, A. C. (2008) Explaining the Ontogeny of Form: Philosophical Issues. In Plutynski, A. and Sarkar, S. (eds.), *The Blackwell Companion to Philosophy of Biology*. Malden: Blackwell Publishers, 223–47.
+- Lusk, G. and Elliott, K. C. (2022) Non-epistemic Values and Scientific Assessment: An Adequacy-for-Purpose View. *European Journal for Philosophy of Science* 12: 35. [https://doi.org/10.1007/s13194-022-00458-w](ttps://doi.org/10.1007/s13194-022-00458-w).
+- McLeod, M. and Nersessian N. (2013) The Creative Industry of Integrative Systems Biology. *Mind & Society* 12: 35–48.
+- Mäki, U., Fernández Pinto, M. and Walsh, A. (eds.) (2018) *Scientific Imperialism: Exploring the Boundaries of Interdisciplinarity*. London: Routledge.
+- Massimi, M. (2022) *Perspectival Realism*. Oxford: Oxford University Press.
+- Maxson Jones, K., Ankeny, R. A. and Cook-Deegan, R. (2018) The Bermuda Triangle: The Pragmatics, Policies, and Principles for Data Sharing in the History of the Human Genome Project. *J Hist Biol*. 51(4): 693–805.
+- Mayernik, M. S. (2017) Open Data: Accountability and Transparency. *Big Data and Society* 4(2). [https://doi.org/10.1177/2053951717718853](https://doi.org/10.1177/2053951717718853).
+- Merton, R. (1973 (1942)) The Normative Structure of Science. In *The Sociology of Science*. Chicago: University of Chicago Press, 267–78.
+- Merton, R. (1968) The Matthew Effect in Science. *Science* 159(3810): 56–63.
+- Miedema, F. (2021) *Open Science: The Very Idea*. Dordrecht: Springer.
+- Miles, C. (2019) The Combine Will Tell the Truth: On Precision Agriculture and Algorithmic Rationality. *Big Data & Society* 6(1). [https://doi.org/10.1177/2053951719849444](https://doi.org/10.1177/2053951719849444).
+- Mirowski, P. (2018) The Future of (Open) Science. *Social Studies of Science* 48(2): 171–203.
+- Mitchell, S. (2003) *Biological Complexity and Integrative Pluralism*. Cambridge: Cambridge University Press.
+- Montgomery, L. et al. (2021) *Open Knowledge Institutions: Reinventing Universities*. Cambridge, MA: MIT Press.
+- Morgan, M. 2010. Travelling Facts. In Howlett, P. and Morgan, M. (eds.), *How Well Do Facts Travel? The Dissemination of Reliable Knowledge*. Cambridge: Cambridge University Press, 36–86.
+- Morgan, M. (2014) Resituating Knowledge. *Philosophy of Science* 81(5): 1012–24.
+- National Academies of Sciences, Engineering, and Medicine (2018) *Open Science by Design: Realizing a Vision for 21st Century Research*. Washington, DC: The National Academies Press.
+- National Academies of Sciences, Engineering, and Medicine (2019) *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press.
+- Nature (2018) US Proposal for Defining Gender Has No Basis in Science. *Nature* 563: 5.
+- Nerlich, B. et al. (2018) *Science and the Politics of Openness: Here Be Monsters*. Manchester: Manchester University Press.
+- Nersessian, N. (2022) *Interdisciplinarity in the Making*. Cambridge, MA: MIT Press.
+- Nguyen, C. Thi (2021) Transparency Is Surveillance. *Philosophy and Phenomenological Research* 00: 1–31. [https://doi.org/10.1111/phpr.12823](https://doi.org/10.1111/phpr.12823).
+- Nowotny, H. (2021) *In AI We Trust: Power, Illusion and Control of Predictive Algorithms*. Cambridge: Polity Press.
+- O’Neill, O. (2002) *A Question of Trust: The BBC Reith Lectures 2002*. Cambridge: Cambridge University Press.
+- Open Letter (2021) Support Data Sharing for COVID-19. COVID-19 Data Portal. [www.covid19dataportal.org/support-data-sharing-covid19](https://www.covid19dataportal.org/support-data-sharing-covid19).
+- Open Science Collaboration (2015). Estimating the Reproducibility of Psychological Science. *Science*, 349(6251). [www.science.org/doi/10.1126/science.aac4716](https://www.science.org/doi/10.1126/science.aac471).
+- Oreskes, N. (2019) *Why Trust Science?* Princeton, NJ: Princeton University Press.
+- Oreskes, N. and Conway, R. (2010) *Merchants of Doubt*. London: Bloomsbury.h
+- Owen, R., von Schomberg, R. and Macnaghten, P. (2021) An Unfinished journey? Reflections on a Decade of Responsible Research and Innovation. *Journal of Responsible Innovation* 8(2): 217–33.
+- Popper, K. (2011 (1945)) *The Open Society and Its Enemies*. London: Routledge.
+- Potochnik, A. (2017) *Idealisation and the Aims of Science*. Chicago: Chicago University Press.
+- Prainsack, B. (2020) The Political Economy of Digital Data. *Policy Studies* 41(5): 439–46.
+- Radder, H. (1996) *In and About the World: Philosophical Studies of Science and Technology*. New York: The State University of New York.
+- Radder, H. (ed.) (2010) *The Commodification of Academic Research*. Pittsburgh, PA: University of Pittsburgh Press.
+- Radder, H. (2019) *From Commodification to the Common Good*. Pittsburgh, PA: University of Pittsburgh Press.
+- Romero, F. (2019) Philosophy of Science and the Replicability Crisis. *Philosophical Compass* 14: e12633. [https://doi.org/10.1111/phc3.12633](https://doi.org/10.1111/phc3.12633).
+- Ross-Hellauer, T. et al. (2022) Dynamics of Cumulative Advantage and Threats to Equity in Open Science: A Scoping Review. *Royal Society Open Science* 9(1): 211032. [https://doi.org/10.1098/rsos.211032](https://doi.org/10.1098/rsos.211032).
+- Rothblatt, S. (1985) The Notion of an Open Scientific Community in Historical Perspective. In Gibbons, M. and Wittrock, B. (eds.) *Science as a Commodity: Threats to the Open Community of Scholars*. Harlow: Longman Publishing Group, 21–76.
+- Rouse, J. (1987) *Knowledge and Power: Towards a Political Philosophy of Science*. Ithaca, NY: Cornell University Press.
+- Rouse, J. (2002) *How Scientific Practices Matter*. Chicago: Chicago University Press.
+- Rouse, J. (2015) *Articulating the World: Conceptual Understanding and the Scientific Image*. Chicago: University of Chicago Press.
+- Sheehan, N., Leonelli, S. and Botta, F. (2023) From Collection to Analysis: A Comparison of GISAID and the COVID-19 Data Portal. Preprint. [https://doi.org/10.1101/2023.05.13.5406348](https://doi.org/10.1101/2023.05.13.5406348).
+- Solomon, M. (2001) *Social Empiricism*. Cambridge, MA: MIT Press.
+- Solar, L. et al. (2014) *Science After the Practice Turn in the Philosophy, History and Social Studies of Science*. London: Routledge.
+- Strasser, B. J. et al. (2018). Citizen Science? Rethinking Science and Public Participation. *Science & Technology Studies* 32(2): 52–76.
+- Thompson, E. (2022) *Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It*. London: Basic Books.
+- UNESCO (2021) Recommendation on Open Science. [https://en.unesco.org/science-sustainable-future/open-science/recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation).
+- United Nations (2019) *Towards Global Open Science: Core Enabler of the UN 2030 Agenda*. [https://research.un.org/ld.php?content_id=50970566](https://research.un.org/ld.php?content_id=50970566).
+- Vermeir, K. et al. (2018) *Global Access to Research Software: The Forgotten Pillar of Open Science Implementation*. A Global Young Academy Report. Halle: Global Young Academy. [https://globalyoungacademy.net/activities/global-access-to-research-software/](https://globalyoungacademy.net/activities/global-access-to-research-software/).
+- Walsh, K. (2018) The Darker Side of Baconianism. Blog, University of Otaga (6 December). [https://blogs.otago.ac.nz/emxphi/the-darker-side-of-baconianism/](https://blogs.otago.ac.nz/emxphi/the-darker-side-of-baconianism/).
+- Williamson, H. and Leonelli, S. (eds.) (2022) *Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development*. Cham: Springer.
+- Williamson, H. F. et al. (2023) Data Management Challenges for Artificial Intelligence in Plant and Agricultural Research. *F1000Research*, 10: 324. [https://doi.org/10.12688/f1000research.52204.2](https://doi.org/10.12688/f1000research.52204.2).
+- Wyatt, S. et al. (eds.) (2000) *Technology and In/equality: Questioning the Information Society*. London: Routledge.
+- Wylie, A. (2003) Why Standpoint Matters. In Figueroa, R. and Harding, S. (eds.), *Science and Other Cultures: Issues in Philosophies of Science and Technology*. New York: Routledge, 26–48.
+- Wylie, C. (2021) *Preparing Dinosaurs: The Work Behind the Scenes*. Chicago: Chicago University Press.
