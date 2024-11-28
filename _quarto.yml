@@ -1,6 +1,8 @@
 project:
   type: book
 
+output-dir: docs
+
 book:
   title: "オープンサイエンスの哲学（Philosophy of Open Science）"
   subtitle: "Elementsシリーズ（科学哲学）"
