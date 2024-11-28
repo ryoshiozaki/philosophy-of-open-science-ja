@@ -1,7 +1,6 @@
 project:
   type: book
-
-output-dir: ./docs
+  output-dir: ./docs
 
 book:
   title: "オープンサイエンスの哲学（Philosophy of Open Science）"
